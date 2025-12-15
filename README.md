@@ -3,6 +3,8 @@
 ## Task 1: Number Guessing Game
 - Console based game
 - User guesses number until correct
+- ## Task 1: Number Guessing Game
+![Screenshot](screenshot/game.png)
 
 ## Task 2: Student Grade Calculator
 - Takes marks input
