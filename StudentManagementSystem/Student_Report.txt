@@ -1,0 +1,12 @@
+
+---------------------------
+Name: neha shinde
+Roll: 180
+Subject 1: 88
+Subject 2: 80
+Subject 3: 90
+Subject 4: 84
+Subject 5: 94
+Total: 436
+Average: 87.2
+Grade: A
