@@ -1,5 +1,13 @@
 # CodSoft Internship Projects
 
+This repository contains the tasks completed during my CodSoft Internship in Java.  
+I have successfully implemented 4 projects with code, documentation, and screenshots:
+
+- Task 1: Number Guessing Game  
+- Task 2: ATM Interface  
+- Task 3: Student Grade Calculator  
+- Task 4: Currency Converter  
+Each project includes source code, output screenshots, and instructions to run.
 ## Task 1: Number Guessing Game
 - Console based game
 - User guesses number until correct
