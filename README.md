@@ -14,3 +14,8 @@
 - Swing GUI
 - Deposit, Withdraw, Balance
 - Privacy features: PIN authentication + masked account number
+
+## Task 4: Currency Converter
+- Converts between USD, EUR, INR, GBP, JPY
+- Features: Swap button, error handling, auto-clear input, console + UI output
+- Run: Right-click `CurrencyConverter.java` → Run As → Java Application
