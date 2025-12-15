@@ -7,6 +7,8 @@
 ## Task 2: Student Grade Calculator
 - Takes marks input
 - Calculates grade and percentage
+- Calculates average marks and assigns grade.
+- Implemented inside StudentManagementSystem project.
 
 ## Task 3: ATM Interface
 - Swing GUI
